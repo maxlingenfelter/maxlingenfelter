@@ -89,8 +89,8 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
 - C#
 - C
 
-## My GitHub Stats
+<!-- ## My GitHub Stats
 
 [![Pekays's Github Stats](https://github-readme-stats.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pekays's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Pekays's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
