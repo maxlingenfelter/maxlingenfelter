@@ -11,7 +11,7 @@ Feel free to contact me via any of the methods below! <br />
 
 ## Current Projects
 
-### [Salmon Hosting](https://salmon.host) (Main Focus)
+### <a href="https://salmon.host" tartget="_blank">Salmon Hosting</a> (Main Focus)
 
 - Backend in Php & React
 - Frontend with React Vue, Laravel
