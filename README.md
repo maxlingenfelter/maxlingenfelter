@@ -26,9 +26,9 @@ More about me on my **[Website](https://pekay.me)**
 
 - Custom Minecraft Cape Client [Cloaks+](https://github.com/CloaksPlus)
 - Trello Webhook Discord Bot
-- Nft project [Super-U NFT](https://github.com/TheSupernaturalUniversity)
+- Nft project [Super-U NFT](https://github.com/TheSupernaturalUnIversity)
 - Java Minecraft Plugin Development
-- Freelancing (Web Development & System Administration) for [Senior Studios](https://seniorteam.net/)
+- Freelancing (Web Development & System Administrator) for [Senior Studios](https://seniorteam.net/)
 
 ## Resume
 
@@ -36,27 +36,27 @@ I love coding and working with computers. I've always been interested in robots,
 
 ### Salmon
 
-[Salmon](https://github.com/Salmon-Hosting) is a Minecraft host with a fully custom front end UI and a partiarly custom backend. We use:
+[Salmon](https://github.com/Salmon-Hosting) is a Minecraft host with a fully custom front-end UI and a partially custom backend. We use:
 
-- Laravel(PHP) with vue and SCSS for out website and panel which I wrote myself
+- Laravel(PHP) with Vue and SCSS for our website and panel which I wrote myself
 - Typescript/Discord.js for our Discord bot which I wrote myself
-- Laravel and Go for the API and backend which ive helped write
-- Custom additons to the Pterodactyl instance which ive helped write
+- Laravel and Go for the API and backend which I've helped write
+- Custom additions to the Pterodactyl instance which I've helped write
 - Next Js/Sass for our future update on the panel
-- Python for custom backend scripts for fetching server jars that i wrote
+- Python for custom backend scripts for fetching server jars that I wrote
 
 ### Cloaks+
 
-[Cloaks+](https://github.com/CloaksPlus) is a Minecraft add-on that allows you to get free Capes and Cosmetics on any Minecraft Client. I have contributed by writing Typescript Discord.js for our Discord bot which I manage, maintain and help to add new features.
+[Cloaks+](https://github.com/CloaksPlus) is a Minecraft add-on that allows you to get free Capes and Cosmetics on any Minecraft Client. I have contributed by writing Typescript Discord.js for our Discord bot which I manage, maintain, and help to add new features.
 
 ### Senior Studios
 
-[Senior Studios](https://seniorteam.net/) is a service provider for a wide range of minecraft related services. I work as a freelancer and do system aminstrator commisons and also web devlopment commisons. This helps to earn some side cash and also grom my experince and find what im good at.
+[Senior Studios](https://seniorteam.net/) is a service provider for a wide range of Minecraft-related services. I work as a freelancer and do System administrator and Web Development commissions. This helps to earn some side cash and also grom my experience and find what I'm good at.
 
 ### Discord Bots
 
-I do discord bot commisons for friends and anyone who reaches out to me.
-Ive done everything to simpal webhooks all the way to bots with all of the following features.
+I do discord bot commissions for friends and anyone who reaches out to me.
+I've done everything from simple webhooks all the way to bots with all of the following features.
 
 - Verification system
 - Temp Ban with logging
@@ -77,12 +77,11 @@ And lots more cool features!
 
 ### More
 
-Im always looking for more ways to challange myself and learn new skills. As expected i sometime get really intrested on one random thing like
-making a custom driver to run doom run on a 3x3 grid of 128x64 pixel OLED screens or making an external backup script for minecraft servers, etc.
+I'm always looking for more ways to challenge myself and learn new skills. As expected I sometimes get really interested in one random thing like making a custom driver run doom run on a 3x3 grid of 128x64 pixel OLED screens or making an external backup script for Minecraft servers, etc.
 
 ## ## Goals
 
-In 2022 i want to learn more and expand my skills i hope to learn some of these things:
+In 2022 I want to learn more and expand my skills I hope to learn some of these things:
 
 - Storybook
 - Go
@@ -94,6 +93,4 @@ In 2022 i want to learn more and expand my skills i hope to learn some of these 
 
 [![Pekays's Github Stats](https://github-readme-stats.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Pekays's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PekayTab)](https://github.com/PekayTab/github-readme-stats)
+[![Pekays's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
