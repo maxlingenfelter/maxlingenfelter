@@ -16,3 +16,11 @@ Feel free to contact me via any of the methods below! <br />
 - Backend in Php & React
 - Frontend with React Vue, Laravel
 - Discord Bot in Discord.js
+
+### Side Projects
+
+- Custom Minecraft Cape Client [Cloaks+](https://github.com/CloaksPlus)
+- Trello Webhook Discord Bot
+- Nft project [Super-U NFT](https://github.com/TheSupernaturalUniversity)
+- Java Minecraft Plugin Devlopment
+- Freelancing (Web Devloment & System Administration) for [Senior Studios](https://seniorteam.net/)
