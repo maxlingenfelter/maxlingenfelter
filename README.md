@@ -5,6 +5,14 @@ Hey! I'm Pekay, and I am a full-stack developer with over 3 years of experience.
 ## Contact
 
 Feel free to contact me via any of the methods below! <br />
+**Discord:** Pekay#6988 <br />
 **Phone:** ‪(971) 266-1855‬<br />
 **Email:** pekaytab@gmail.com <br />
-**Discord:** Pekay#6988 <br />
+
+## Current Projects
+
+### [Salmon Hosting](https://salmon.host) (Main Focus)
+
+- Backend in Php & React
+- Frontend with React Vue, Laravel
+- Discord Bot in Discord.js
