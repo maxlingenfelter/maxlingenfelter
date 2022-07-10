@@ -7,6 +7,7 @@ Hey! I'm Pekay, and I am a full-stack developer with over 3 years of experience.
 ## Contact
 
 Feel free to contact me via any of the methods below! <br />
+<br />
 **Discord:** Pekay#6988 <br />
 **Phone:** ‪(971) 266-1855‬<br />
 **Email:** pekaytab@gmail.com <br />
