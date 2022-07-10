@@ -2,9 +2,9 @@ Hey! I'm Pekay, and I am a full-stack developer with over 3 years of experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PekayTab&label=Profile%20views&color=0e75b6&style=flat" alt="pekay" /> </p>
 
-
 ## Contact
-Feel free to contact me via any of the methods below!
-Phone: ‪(971) 266-1855‬
-Email: pekaytab@gmail.com
-Discord: Pekay#6988
+
+Feel free to contact me via any of the methods below! <br />
+Phone: ‪(971) 266-1855‬<br />
+Email: pekaytab@gmail.com <br />
+Discord: Pekay#6988 <br />
