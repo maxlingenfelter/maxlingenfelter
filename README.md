@@ -73,7 +73,7 @@ Ive done everything to simpal webhooks all the way to bots with all of the follo
 - Custom command maker
 - Leveling System
 
-And more!
+And lots more cool features!
 
 ### More
 
