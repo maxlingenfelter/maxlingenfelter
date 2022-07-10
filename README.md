@@ -79,3 +79,19 @@ And lots more cool features!
 
 Im always looking for more ways to challange myself and learn new skills. As expected i sometime get really intrested on one random thing like
 making a custom driver to run doom run on a 3x3 grid of 128x64 pixel OLED screens or making an external backup script for minecraft servers, etc.
+
+## ## Goals
+
+In 2022 i want to learn more and expand my skills i hope to learn some of these things:
+
+- Storybook
+- Go
+- C++
+- C#
+- C
+
+## My GitHub Stats
+
+[![Pekays's Github Stats](https://github-readme-stats.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Pekays's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
