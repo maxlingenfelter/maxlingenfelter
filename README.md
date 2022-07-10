@@ -79,7 +79,7 @@ And lots more cool features!
 
 I'm always looking for more ways to challenge myself and learn new skills. As expected I sometimes get really interested in one random thing like making a custom driver run doom run on a 3x3 grid of 128x64 pixel OLED screens or making an external backup script for Minecraft servers, etc.
 
-## ## Goals
+## Goals
 
 In 2022 I want to learn more and expand my skills I hope to learn some of these things:
 
