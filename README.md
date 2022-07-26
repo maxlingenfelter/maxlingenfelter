@@ -93,4 +93,8 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
 
 [![Pekays's Github Stats](https://pk-github-readme-stats.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"> 
+<img height=200 src="pk-github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Pekays's Top Languages" />
+</div>
+
 [![Pekays's Top Languages](https://pk-github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&langs_count=10&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
