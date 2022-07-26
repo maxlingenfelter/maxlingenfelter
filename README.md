@@ -93,10 +93,8 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
 
 [![Pekays's Github Stats](https://pk-github-readme-stats.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> 
-<img height=200
-      src="https://pk-github-readme-stats.vercel.app/api/top-langs/?username=PekayTab&count_private=true&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only"
-      alt="Rick Staa's Language stats" />
-</div>
+
+[![Pekays's Language Stats]([https://pk-github-readme-stats.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&theme=algolia](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api/top-langs/?username=PekayTab&count_private=true&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only))](https://github.com/anuraghazra/github-readme-stats)
+
 
 
