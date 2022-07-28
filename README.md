@@ -136,8 +136,8 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
   <img alt="Bootstrap"
     src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind
-    CSS-23272A?style=flat&logo=tailwind-css">
+  <img alt="Tailwind CSS"
+    src="https://img.shields.io/badge/-TailwindCSS-23272A?style=flat&logo=tailwind-css">
 </p>
 
 <h3 align="center">Software<br></h3>
@@ -151,12 +151,9 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
   <img alt="GitHub"
     src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio
-    Code-23272A?style=flat&logo=visual-studio-code">
-  <img alt="Discord"
-    src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
-  <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij
-    Idea-23272A?style=flat&logo=intellij-idea">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual StudioCode-23272A?style=flat&logo=visual-studio-code">
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
+  <img alt="Intellij Idea" src="https://img.shields.io/badge/-IntellijIdea-23272A?style=flat&logo=intellij-idea">
   <img alt="Docker"
     src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
   <img alt="Kubernetes"
@@ -165,6 +162,5 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-Nginx-23272A?style=flat&logo=nginx">
   <img alt="Apache"
     src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe
-    Photoshop-23272A?style=flat&logo=adobe-photoshop">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-AdobePhotoshop-23272A?style=flat&logo=adobe-photoshop">
 </p><br>
