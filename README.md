@@ -95,46 +95,76 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
 
 [![Pekays's Language Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api/top-langs/?username=PekayTab&count_private=true&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages
-<h3 align="center">Languages I know<br></h3>
+## Knowledge
+<h3 align="center">Languages<br></h3>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-23272A?style=flat&logo=TypeScript">
+  <img alt="JavaScript"
+    src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
+  <img alt="React"
+    src="https://img.shields.io/badge/-React-23272A?style=flat&logo=React">
+  <img alt="PHP"
+    src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
+  <img alt="Java"
+    src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
+  <img alt="HTML5"
+    src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
+  <img alt="CSS3"
+    src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
+  <img alt="SQL"
+    src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
+  <img alt="Python"
+    src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
 </p>
 
-<h3 align="center">Frameworks I use<br></h3>
+<h3 align="center">Frameworks<br></h3>
 
 <p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-23272A?style=flat&logo=laravel">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-23272A?style=flat&logo=tailwind-css">
-  <img alt="React" src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react">
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-23272A?style=flat&logo=Vue">
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=Angular">
-  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-23272A?style=flat&logo=Stripe">
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
+  <img alt="Node.js"
+    src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
+  <img alt="Laravel"
+    src="https://img.shields.io/badge/-Laravel-23272A?style=flat&logo=laravel">
+  <img alt="React"
+    src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react">
+  <img alt="Next.js"
+    src="https://img.shields.io/badge/-Next.js-23272A?style=flat&logo=Next.js">
+  <img alt="Stripe"
+    src="https://img.shields.io/badge/-Stripe-23272A?style=flat&logo=Stripe">
+  <img alt="Sass"
+    src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
+  <img alt="Bootstrap"
+    src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind
+    CSS-23272A?style=flat&logo=tailwind-css">
 </p>
 
-<h3 align="center">Software I use<br></h3>
+<h3 align="center">Software<br></h3>
 
 <p align="center">
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
-  <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij Idea-23272A?style=flat&logo=intellij-idea">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-23272A?style=flat&logo=kubernetes">
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-23272A?style=flat&logo=nginx">
-  <img alt="Apache" src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-23272A?style=flat&logo=adobe-photoshop">
+  <img alt="Windows"
+    src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
+  <img alt="Linux"
+    src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
+  <img alt="Ubuntu"
+    src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
+  <img alt="GitHub"
+    src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio
+    Code-23272A?style=flat&logo=visual-studio-code">
+  <img alt="Discord"
+    src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
+  <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij
+    Idea-23272A?style=flat&logo=intellij-idea">
+  <img alt="Docker"
+    src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
+  <img alt="Kubernetes"
+    src="https://img.shields.io/badge/-Kubernetes-23272A?style=flat&logo=kubernetes">
+  <img alt="Nginx"
+    src="https://img.shields.io/badge/-Nginx-23272A?style=flat&logo=nginx">
+  <img alt="Apache"
+    src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe
+    Photoshop-23272A?style=flat&logo=adobe-photoshop">
 </p><br>
