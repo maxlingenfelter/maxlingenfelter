@@ -138,6 +138,12 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
   <img alt="Tailwind CSS"
     src="https://img.shields.io/badge/-TailwindCSS-23272A?style=flat&logo=tailwind-css">
+   <img alt="Vue.js"
+    src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
+   <img alt="Sass"
+    src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
+   <img alt="Sass"
+    src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
 </p>
 
 <h3 align="center">Software<br></h3>
@@ -162,5 +168,8 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-Nginx-23272A?style=flat&logo=nginx">
   <img alt="Apache"
     src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-AdobePhotoshop-23272A?style=flat&logo=adobe-photoshop">
+  <img alt="npm" src="https://img.shields.io/badge/-npm-23272A?style=flat&logo=npm">
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-23272A?style=flat&logo=Amazon AWS">
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-AdobePhotoshop-23272A?style=flat&logo=adobe-photoshop">
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-AdobePhotoshop-23272A?style=flat&logo=adobe-photoshop">
 </p><br>
