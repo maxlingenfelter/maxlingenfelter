@@ -170,6 +170,5 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
   <img alt="npm" src="https://img.shields.io/badge/-npm-23272A?style=flat&logo=npm">
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-23272A?style=flat&logo=Amazon AWS">
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-AdobePhotoshop-23272A?style=flat&logo=adobe-photoshop">
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-AdobePhotoshop-23272A?style=flat&logo=adobe-photoshop">
+
 </p><br>
