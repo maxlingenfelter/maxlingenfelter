@@ -140,10 +140,7 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
     src="https://img.shields.io/badge/-TailwindCSS-23272A?style=flat&logo=tailwind-css">
    <img alt="Vue.js"
     src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
-   <img alt="Sass"
-    src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
-   <img alt="Sass"
-    src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
+
 </p>
 
 <h3 align="center">Software<br></h3>
