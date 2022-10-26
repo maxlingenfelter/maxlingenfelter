@@ -94,7 +94,7 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
 
 Total Time Spent Coding (As Of Sep 30 2022):
 
-<a style="color:red;" target="_blank" href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img   src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022"/></a> 
+<a target="_blank" href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img   src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022"/></a> 
 
 [![Pekays's Github Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
