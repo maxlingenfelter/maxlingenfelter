@@ -100,7 +100,7 @@ My Total Time Spent Coding (As Of Sep 30 2022):
 
 <a style="color:red;" target="_blank" href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img   src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022"/></a> 
 
-<figure><embed src="https://wakatime.com/share/@Pekay/6585d779-847c-4d64-82f2-11fed0e29771.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@Pekay/6585d779-847c-4d64-82f2-11fed0e29771.svg"></embed>
 
 ## Knowledge
 <h3 align="center">Languages<br></h3>
