@@ -102,6 +102,8 @@ My Total Time Spent Coding (As Of Sep 30 2022):
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Pekay/03d387af-9cac-4d0e-851d-32896efd3534.png" /></a>
 
+<figure><embed src="https://wakatime.com/share/@Pekay/8d272a78-04b5-419d-aaca-bd8e4c70d8e9.svg"></embed></figure>
+
 ## Knowledge
 <h3 align="center">Languages<br></h3>
 
