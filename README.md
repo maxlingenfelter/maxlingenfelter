@@ -3,7 +3,7 @@ Hey! I'm Pekay, and I am a full-stack developer with over 3 years of experience.
 <!-- on my [Website](https://pekay.me). -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PekayTab&label=Profile%20views&color=0e75b6&style=flat" alt="pekay" /> </p>
-<a href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022" /></a>
+Total Time Coding: <a target="_blank" href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022" /></a> 
 
 ## Contact
 
