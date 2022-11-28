@@ -97,9 +97,10 @@ Total Time Spent Coding (As Of Sep 30 2022):
 
 [![Pekays's Github Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=PekayTab&theme=highcontrast&hide_border=true&border_radius=6.9&sideNums=64A5CB)](https://git.io/streak-stats)
+
 [![Pekays's Language Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api/top-langs/?username=PekayTab&count_private=true&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PekayTab&theme=highcontrast&hide_border=true&border_radius=6.9&sideNums=64A5CB)](https://git.io/streak-stats)
 
 
 ## Knowledge
