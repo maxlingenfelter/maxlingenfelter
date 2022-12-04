@@ -26,6 +26,7 @@ More about me on my **[Website](https://pekay.me)**
 
 - Custom Minecraft Cape Client [Cloaks+](https://github.com/CloaksPlus)
 - Trello Webhook Discord Bot
+- AWS Rebrand/User Friendly Design & Backend
 - Nft project [Super-U NFT](https://github.com/TheSupernaturalUnIversity)
 - Java Minecraft Plugin Development
 - Freelancing (Web Development & System Administrator) for [Senior Studios](https://seniorteam.net/)
