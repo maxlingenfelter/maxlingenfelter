@@ -92,7 +92,7 @@ In 2022 I want to learn more and expand my skills I hope to learn some of these 
 
 ## My GitHub Stats
 
-Total Time Spent Coding (As Of Sep 30 2022):
+Total Time Spent Coding (As Of Oct 2022):
 
 <a target="_blank" href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img   src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022"/></a> 
 
