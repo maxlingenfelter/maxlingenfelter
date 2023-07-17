@@ -1,18 +1,17 @@
-Hey! I'm Pekay, and I am a full-stack developer with over 4 years of experience. I know quite a few languages such as Larvel, Php, Typescript, React, Next, Vue, Fastify, HTML, CSS, SCSS, and more. You can learn more about me from the [Resume](#resume) section.
+Hey! I'm Max, and I am a full-stack developer with over 4 years of experience. I know quite a few languages such as Larvel, Php, Typescript, React, Next, Vue, Fastify, HTML, CSS, SCSS, and more. You can learn more about me from the [Resume](#resume) section.
 
-<!-- on my [Website](https://pekay.me). -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PekayTab&label=Profile%20views&color=0e75b6&style=flat" alt="pekay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxlingenfelter&label=Profile%20views&color=0e75b6&style=flat" alt="Max" /> </p>
 
 ## Contact
 
 Feel free to contact me via any of the methods below! <br />
 <br />
-**Discord:** Pekay#6988 <br />
+**Discord:** p.kay <br />
 **Phone:** ‪(971) 266-1855‬<br />
-**Email:** pekaytab@gmail.com <br />
+**Email:** max@maxlingenfelter.com <br />
 
-More about me on my **[Website](https://pekay.me)**
+More about me on my **[Website](https://maxlingenfelter.com)**
 
 ## Current Projects
 
@@ -82,7 +81,7 @@ I'm always looking for more ways to challenge myself and learn new skills. As ex
 
 ## Goals
 
-In 2022 I want to learn more and expand my skills I hope to learn some of these things:
+In 2023 I want to learn more and expand my skills I hope to learn some of these things:
 
 - Storybook
 - Go
