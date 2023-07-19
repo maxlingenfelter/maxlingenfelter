@@ -1,179 +1,97 @@
-Hey! I'm Max, and I am a full-stack developer with over 4 years of experience. I know quite a few languages such as Larvel, Php, Typescript, React, Next, Vue, Fastify, HTML, CSS, SCSS, and more. You can learn more about me from the [Resume](#resume) section.
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emoji_u1f44b.svg/2048px-Emoji_u1f44b.svg.png" width="26"/> Welcome, Nice to meet you!</h1>
+Hey! I'm Max, a 16-year-old student and software developer I with a strong passion for learning and improving my skills.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxlingenfelter&label=Profile%20views&color=0e75b6&style=flat" alt="Max" /> </p>
-
-## Contact
-
-Feel free to contact me via any of the methods below! <br />
-<br />
-**Discord:** p.kay <br />
-**Phone:** ‪(971) 266-1855‬<br />
-**Email:** max@maxlingenfelter.com <br />
-
-More about me on my **[Website](https://maxlingenfelter.com)**
-
-## Current Projects
-
-### [Salmon Hosting](https://salmon.host) (Main Focus)
-
-- Backend in Php & React
-- Frontend with React Vue, Laravel
-- Discord Bot in Discord.js
-
-### Side Projects
-
-- Custom Minecraft Cape Client [Cloaks+](https://github.com/CloaksPlus)
-- Trello Webhook Discord Bot
-- AWS Rebrand/User Friendly Design & Backend
-- Nft project [Super-U NFT](https://github.com/TheSupernaturalUnIversity)
-- Java Minecraft Plugin Development
-- Freelancing (Web Development & System Administrator) for [Senior Studios](https://seniorteam.net/)
-
-## Resume
-
-I love coding and working with computers. I've always been interested in robots, engineering and tons more. I work well with others and have good communication skills. I also am very good at problem-solving. I enjoy programming and working with computers in general. I am always eager to learn new things and I tend to be a fast learner. I am always willing to do projects, if you are interested feel free to contact me via the [Contact](#Contact) section.
-
-### Salmon
-
-[Salmon](https://github.com/Salmon-Hosting) is a Minecraft host with a fully custom front-end UI and a partially custom backend. We use:
-
-- Laravel(PHP) with Vue and SCSS for our website and panel which I wrote myself
-- Typescript/Discord.js for our Discord bot which I wrote myself
-- Laravel and Go for the API and backend which I've helped write
-- Custom additions to the Pterodactyl instance which I've helped write
-- Next Js/Sass for our future update on the panel
-- Python for custom backend scripts for fetching server jars that I wrote
-
-### Cloaks+
-
-[Cloaks+](https://github.com/CloaksPlus) is a Minecraft add-on that allows you to get free Capes and Cosmetics on any Minecraft Client. I have contributed by writing Typescript Discord.js for our Discord bot which I manage, maintain, and help to add new features.
-
-### Senior Studios
-
-[Senior Studios](https://seniorteam.net/) is a service provider for a wide range of Minecraft-related services. I work as a freelancer and do System administrator and Web Development commissions. This helps to earn some side cash and also grom my experience and find what I'm good at.
-
-### Discord Bots
-
-I do discord bot commissions for friends and anyone who reaches out to me.
-I've done everything from simple webhooks all the way to bots with all of the following features.
-
-- Verification system
-- Temp Ban with logging
-- Kick with logging
-- Ticket system
-- Button roles
-- Suggest command
-- Mute with logging
-- Embed command
-- Giveaway function + reroll
-- Anti curse system
-- Meme command
-- Automod system for anticurse and antiscam
-- Custom command maker
-- Leveling System
-
-And lots more cool features!
-
-### More
-
-I'm always looking for more ways to challenge myself and learn new skills. As expected I sometimes get really interested in one random thing like making a custom driver run doom run on a 3x3 grid of 128x64 pixel OLED screens or making an external backup script for Minecraft servers, etc.
-
-## Goals
-
-In 2023 I want to learn more and expand my skills I hope to learn some of these things:
-
-- Storybook
-- Go
-- C++
-- C#
-- C
-
-## My GitHub Stats
-
-Total Time Spent Coding (As Of Oct 2022):
-
-<a target="_blank" href="https://wakatime.com/@43ad3e5f-4d4b-4a92-aa93-597407e7e54e"><img   src="https://wakatime.com/badge/user/43ad3e5f-4d4b-4a92-aa93-597407e7e54e.svg" alt="Total time coded since Sep 30 2022"/></a> 
-
-[![Pekays's Github Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api?username=PekayTab&count_private=true&include_all_commits=true&show_icons=true&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PekayTab&theme=highcontrast&hide_border=true&border_radius=6.9&sideNums=64A5CB)](https://git.io/streak-stats)
-
-[![Pekays's Language Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api/top-langs/?username=PekayTab&count_private=true&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+## Things I code with
 
 
 
-## Knowledge
-<h3 align="center">Languages<br></h3>
+<!-- Colors-->
 
-<p align="center">
-  <img alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-23272A?style=flat&logo=TypeScript">
-  <img alt="JavaScript"
-    src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
-  <img alt="React"
-    src="https://img.shields.io/badge/-React-23272A?style=flat&logo=React">
-  <img alt="PHP"
-    src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
-  <img alt="Java"
-    src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
-  <img alt="HTML5"
-    src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
-  <img alt="CSS3"
-    src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
-  <img alt="SQL"
-    src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
-  <img alt="Python"
-    src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
-</p>
 
-<h3 align="center">Frameworks<br></h3>
+<!-- Blue (L->D) -->
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+<!-- Purple -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />   
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />   
+<!-- Pink -->
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Saas-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> 
 
-<p align="center">
-  <img alt="Node.js"
-    src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
-  <img alt="Laravel"
-    src="https://img.shields.io/badge/-Laravel-23272A?style=flat&logo=laravel">
-  <img alt="React"
-    src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react">
-  <img alt="Next.js"
-    src="https://img.shields.io/badge/-Next.js-23272A?style=flat&logo=Next.js">
-  <img alt="Stripe"
-    src="https://img.shields.io/badge/-Stripe-23272A?style=flat&logo=Stripe">
-  <img alt="Sass"
-    src="https://img.shields.io/badge/-Sass-23272A?style=flat&logo=Sass">
-  <img alt="Bootstrap"
-    src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
-  <img alt="Tailwind CSS"
-    src="https://img.shields.io/badge/-TailwindCSS-23272A?style=flat&logo=tailwind-css">
-   <img alt="Vue.js"
-    src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
+<!-- TRANSITION COLOR -->
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
+<!-- END TRANSITION -->
+<!-- RED -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-c12127?style=for-the-badge&logo=npm&logoColor=white"
+<img src="https://img.shields.io/badge/Apache-ca2136?style=for-the-badge&logo=apache&logoColor=white"> 
+<img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
+<!-- Orange -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
+<!-- Yellow -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
+<!-- Green -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009037?style=for-the-badge&logo=Nginx&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+<!-- Grays -->
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+ <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> 
+ <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<!-- Blacks -->
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />    
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+<!-- END Colors -->
 
-</p>
 
-<h3 align="center">Software<br></h3>
+<br/>
 
-<p align="center">
-  <img alt="Windows"
-    src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
-  <img alt="Linux"
-    src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
-  <img alt="Ubuntu"
-    src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
-  <img alt="GitHub"
-    src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual StudioCode-23272A?style=flat&logo=visual-studio-code">
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
-  <img alt="Intellij Idea" src="https://img.shields.io/badge/-IntellijIdea-23272A?style=flat&logo=intellij-idea">
-  <img alt="Docker"
-    src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
-  <img alt="Kubernetes"
-    src="https://img.shields.io/badge/-Kubernetes-23272A?style=flat&logo=kubernetes">
-  <img alt="Nginx"
-    src="https://img.shields.io/badge/-Nginx-23272A?style=flat&logo=nginx">
-  <img alt="Apache"
-    src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
-  <img alt="npm" src="https://img.shields.io/badge/-npm-23272A?style=flat&logo=npm">
-<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-23272A?style=flat&logo=Amazon AWS">
+<h1><img src="https://images.emojiterra.com/twitter/v14.0/512px/1f442.png" width="26"/> Get In Touch</h1>
 
-</p><br>
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contact@maxlingenfelter.com">
+<img alt="My Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://discord.gg/MNfTC3fkcH">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://maxlingenfelter.com">
+<img alt="My Website" src="https://img.shields.io/badge/my website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</br>
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</br>
+
+<h2><img src="https://i.imgur.com/Y6PA0hH.gif" width="26"/> GitHub Stats</h2>
+
+[![Pekays's Github Stats](https://pk-github-readme-stats-k0sjqukdl-pekaytab.vercel.app/api?username=MaxLingenfelter&count_private=true&include_all_commits=true&show_icons=true&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaxLingenfelter&theme=highcontrast&hide_border=true&border_radius=6.9&sideNums=64A5CB)](https://git.io/streak-stats) 
