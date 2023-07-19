@@ -86,17 +86,23 @@ Hey! I'm Max, a 16-year-old student and software developer I with a strong passi
 <!--START_SECTION:waka1-->
 
 ```txt
-Other                        ████████████████████░░░░░   80.25 %
-Markdown                     ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-YAML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-PHP                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-TypeScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Properties                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+From: 30 September 2022 - To: 19 July 2023
+
+Total Time: 590 hrs 44 mins
 ```
 
 <!--END_SECTION:waka1-->
 **Languages (This Week)**
 <!--START_SECTION:waka2-->
+
+```txt
+Other                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.25 %
+Markdown                     ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.50 %
+YAML                         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.84 %
+PHP                          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 %
+TypeScript                   ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.14 %
+Properties                   ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.08 %
+```
 
 <!--END_SECTION:waka2-->
 
