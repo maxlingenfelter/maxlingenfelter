@@ -14,8 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█
-          SECTION_NAME: time1
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SECTION_NAME: waka1
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
@@ -24,8 +24,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
-          BLOCKS: ░▒▓█
-          SECTION_NAME: time1
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SECTION_NAME: waka2
           TIME_RANGE: weekly
           SHOW_TIME: false
           SHOW_MASKED_TIME: false
