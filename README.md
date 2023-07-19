@@ -1,12 +1,8 @@
-<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emoji_u1f44b.svg/2048px-Emoji_u1f44b.svg.png" width="26"/> Welcome, Nice to meet you!</h1>
+<h1><img src="https://cdn.discordapp.com/emojis/854451836287320084.gif" width="26"/> Welcome, Nice to meet you!</h1>
 Hey! I'm Max, a 16-year-old student and software developer I with a strong passion for learning and improving my skills.
 
-## Things I code with
-
-
-
 <!-- Colors-->
-
+<h2>👨‍💻Things I code with</h2>
 <p>
     <!-- Blue (L->D) -->
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  
@@ -71,21 +67,20 @@ Hey! I'm Max, a 16-year-old student and software developer I with a strong passi
 
 <br/>
 
-<h1><img src="https://images.emojiterra.com/twitter/v14.0/512px/1f442.png" width="26"/> Get In Touch</h1>
-
-<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contact@maxlingenfelter.com">
-<img alt="My Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<h1><img src="https://media.tenor.com/5zirBaE_AWgAAAAi/music-listening.gif" width="26"/> Get In Touch</h1>
 <a href="https://discord.gg/MNfTC3fkcH">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://maxlingenfelter.com">
 <img alt="My Website" src="https://img.shields.io/badge/my website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contact@maxlingenfelter.com">
+<img alt="My Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </br>
 
-📊 **Weekly development breakdown**
+<h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ3NjNuMGFjYzlmcW12YWprMmMxeGYzdTh0YXB1c3ZjaGYyaG1qbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="26"/> Development breakdown</h1>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
