@@ -86,9 +86,12 @@ Hey! I'm Max, a 16-year-old student and software developer I with a strong passi
 <!--START_SECTION:time1-->
 
 ```txt
-From: 30 September 2022 - To: 19 July 2023
-
-Total Time: 590 hrs 44 mins
+Other                        ████████████████████░░░░░   80.25 %
+Markdown                     ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+YAML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+PHP                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Properties                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:time1-->
