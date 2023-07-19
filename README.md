@@ -81,7 +81,9 @@ Hey! I'm Max, a 16-year-old student and software developer I with a strong passi
 </br>
 
 <h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ3NjNuMGFjYzlmcW12YWprMmMxeGYzdTh0YXB1c3ZjaGYyaG1qbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="26"/> Development breakdown</h1>
-<!--START_SECTION:waka-->
+
+**Total Coding Time**
+<!--START_SECTION:time1-->
 
 ```txt
 From: 30 September 2022 - To: 19 July 2023
@@ -100,7 +102,11 @@ Python           9 hrs 13 mins   -------------------------   01.56 %
 YAML             7 hrs 2 mins    -------------------------   01.19 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:time1-->
+**Languages (This Week)**
+<!--START_SECTION:langs1-->
+<!--END_SECTION:langs1-->
+
 
 </br>
 
