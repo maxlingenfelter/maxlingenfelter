@@ -89,17 +89,6 @@ Hey! I'm Max, a 16-year-old student and software developer I with a strong passi
 From: 30 September 2022 - To: 19 July 2023
 
 Total Time: 590 hrs 44 mins
-
-Other            290 hrs 47 mins >>>>>>>>>>>>-------------   49.22 %
-TypeScript       139 hrs 44 mins >>>>>>-------------------   23.65 %
-SCSS             32 hrs 56 mins  >------------------------   05.58 %
-Astro            26 hrs 31 mins  >------------------------   04.49 %
-PHP              21 hrs 57 mins  >------------------------   03.72 %
-JavaScript       15 hrs 57 mins  >------------------------   02.70 %
-Blade Template   10 hrs 6 mins   -------------------------   01.71 %
-JSON             9 hrs 44 mins   -------------------------   01.65 %
-Python           9 hrs 13 mins   -------------------------   01.56 %
-YAML             7 hrs 2 mins    -------------------------   01.19 %
 ```
 
 <!--END_SECTION:time1-->
