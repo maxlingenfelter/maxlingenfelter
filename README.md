@@ -68,13 +68,13 @@ Hey! I'm Max, a 16-year-old student and software developer I with a strong passi
 <br/>
 
 <h1><img src="https://media.tenor.com/5zirBaE_AWgAAAAi/music-listening.gif" width="26"/> Get In Touch</h1>
-<a href="https://discord.gg/MNfTC3fkcH">
+<a href="https://discord.gg/MNfTC3fkcH" target="_blank">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="https://maxlingenfelter.com">
+<a href="https://maxlingenfelter.com" target="_blank">
 <img alt="My Website" src="https://img.shields.io/badge/my website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contact@maxlingenfelter.com">
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contact@maxlingenfelter.com" target="_blank">
 <img alt="My Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
