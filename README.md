@@ -1,5 +1,5 @@
 <h1><img src="https://cdn.discordapp.com/emojis/854451836287320084.gif" width="26"/> Welcome, Nice to meet you!</h1>
-Hey! I'm Max, a 16-year-old student and software developer I with a strong passion for learning and improving my skills.
+Hey! I'm Max, a 16-year-old student and software developer with a strong passion for learning and improving my skills.
 
 <!-- Colors-->
 <h2>👨‍💻Things I code with</h2>
