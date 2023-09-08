@@ -86,7 +86,7 @@ Hey! I'm Max, a 16-year-old student and software developer with a strong passion
 <!--START_SECTION:waka1-->
 
 ```txt
-From: 30 September 2022 - To: 06 September 2023
+From: 30 September 2022 - To: 07 September 2023
 
 Total Time: 705 hrs 25 mins
 ```
