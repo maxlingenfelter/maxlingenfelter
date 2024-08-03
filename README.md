@@ -80,30 +80,7 @@ Hey! I'm Max, a 16-year-old student and software developer with a strong passion
 
 </br>
 
-<h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ3NjNuMGFjYzlmcW12YWprMmMxeGYzdTh0YXB1c3ZjaGYyaG1qbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="26"/> Development breakdown</h1>
 
-**Total Coding Time**
-<!--START_SECTION:waka1-->
-
-```txt
-From: 30 September 2022 - To: 02 October 2023
-
-Total Time: 713 hrs 33 mins
-```
-
-<!--END_SECTION:waka1-->
-**Languages (This Week)**
-<!--START_SECTION:waka2-->
-
-```txt
-Python                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.96 %
-Text                     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
-```
-
-<!--END_SECTION:waka2-->
-
-
-</br>
 
 <h2><img src="https://i.imgur.com/Y6PA0hH.gif" width="26"/> GitHub Stats</h2>
 
